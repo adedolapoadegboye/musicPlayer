@@ -1,0 +1,3 @@
+([('musicPlayer',
+   '/Users/Deepee/Desktop/Desktop/LEARN/musicPlayer/dist/musicPlayer',
+   'EXECUTABLE')],)
